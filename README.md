@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Phinehas-1
-- 👀 I’m interested in software development
+- 👋 Hi, I’m Phinehas
+- 👀 I’m a software developer
 
 <!---
 Phinehas-1/Phinehas-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
