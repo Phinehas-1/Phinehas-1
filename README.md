@@ -1,6 +1,5 @@
 - I’m Phinehas
 - I’m a full stack software developer and tutor
-- @javaee
 
 <!---
 Phinehas-1/Phinehas-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
