@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phinehas
+- I’m Phinehas
 - I’m a full stack software developer and tutor
 
 <!---
