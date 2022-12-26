@@ -1,4 +1,4 @@
-# Hi there, I am ==Phinehas Enakireru==
+### Hi there, I am <span style="color: red;">Phinehas Enakireru</span>
 - I’m Phinehas Enakireru, also known as BigDecimal by some in these places. 😎
 - You will see some of my best work hosted on here, not all of them though.
 
