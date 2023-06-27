@@ -1,4 +1,4 @@
-![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/bigdecimal_social?raw=true)
+![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/bigdecimal_social.png?raw=true)
 
 ### Hi there, I am Phinehas Enakireru 👋
 
