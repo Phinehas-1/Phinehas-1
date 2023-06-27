@@ -1,3 +1,5 @@
+![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/bigdecimal_social?raw=true)
+
 ### Hi there, I am Phinehas Enakireru 👋
 
 #### I'm also known as BigDecimal by some in these places. 😎
