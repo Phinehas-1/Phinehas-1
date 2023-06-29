@@ -1,4 +1,4 @@
-![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/bigdecimal%20social%20media%20banner.png)
+![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/socials%20header%20%232.png)
 
 <h1 align="center">Hi 👋, I'm Phinehas</h1>
 <h3 align="center">Also known as BigDecimal by some around here.</h3>
