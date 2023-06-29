@@ -1,7 +1,6 @@
 ![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/socials%20header%20%232.png)
 
-<h1 align="center">Hi 👋, I'm Phinehas</h1>
-<h3 align="center">Also known as BigDecimal by some around here.</h3>
+<h3>Hi 👋, I'm also known as BigDecimal by some around here.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phinehas-1&label=Profile%20views&color=0e75b6&style=flat" alt="phinehas-1" /> </p>
 
