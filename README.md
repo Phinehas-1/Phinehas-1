@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/amosphinehas" target="blank"><img src="https://img.shields.io/twitter/follow/amosphinehas?logo=twitter&style=for-the-badge" alt="amosphinehas" /></a> </p>
 
-- 🔭 I’m currently working on [clasnapp](https://t.co/rOPFYqR9ZC)
+- 🔭 I’m currently working on [clasnapp](https://github.com/Phinehas-1/clasnap-backend.git)
 
 - 🌱 I’m currently learning **Kotlin & React**
 
