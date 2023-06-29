@@ -1,4 +1,5 @@
-<h2>Hi 👋, I'm Phinehas (also known as BigDecimal by some around here) 👨‍💻.</h2>
+<h2>Hi 👋, I'm Phinehas 👨‍💻.</h2>
+<p></p>
 
 ![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/socials%20header%20%232.png)
 
