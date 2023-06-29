@@ -2,6 +2,10 @@
 
 <h3>Hi 👋, I'm also known as BigDecimal by some around here.</h3>
 
+<p>As someone who has spent the last three years teaching software development and Java programming, I have developed a deep understanding of industry-standard practices and the tools and technologies used by software developers in the field. Through my extensive experience in teaching, I have honed my skills in problem-solving, critical thinking, and the ability to effectively communicate complex technical concepts.</p>
+
+<p>My experience has provided me with a unique perspective on the software development process and has allowed me to identify potential issues and devise effective solutions. Additionally, my strong foundation in the fundamentals of software development, including object-oriented programming provides a solid basis for further growth and development.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phinehas-1&label=Profile%20views&color=0e75b6&style=flat" alt="phinehas-1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phinehas-1" alt="phinehas-1" /></a> </p>
