@@ -1,6 +1,6 @@
-![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/socials%20header%20%232.png)
+<h2>Hi 👋, I'm Phinehas (also known as BigDecimal by some around here) 👨‍💻.</h2>
 
-<h3>Hi 👋, I'm also known as BigDecimal by some around here.</h3>
+![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/socials%20header%20%232.png)
 
 <p>As someone who has spent the last three years teaching software development and Java programming, I have developed a deep understanding of industry-standard practices and the tools and technologies used by software developers in the field. Through my extensive experience in teaching, I have honed my skills in problem-solving, critical thinking, and the ability to effectively communicate complex technical concepts.</p>
 
