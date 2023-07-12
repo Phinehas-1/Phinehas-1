@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Phinehas 👨‍💻.</h2>
 <p></p>
 
-![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/socials%20header%20%232.png)
+![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/socials%20header%20%231.png)
 
 <p>My primary area of specialty is developing backend systems and integrations for web and mobile. I have a strong foundation in core Java and problem solving, which allows me to effectively design and implement these systems in a scalable and efficient manner.</p>
 
