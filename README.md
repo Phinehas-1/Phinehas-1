@@ -3,9 +3,13 @@
 
 ![alt text](https://github.com/Phinehas-1/Phinehas-1/blob/blob/socials%20header%20%232.png)
 
-<p>As someone who has spent the last three years teaching software development and Java programming, I have developed a deep understanding of industry-standard practices and the tools and technologies used by software developers in the field. Through my extensive experience in teaching, I have honed my skills in problem-solving, critical thinking, and the ability to effectively communicate complex technical concepts.</p>
+<p>My primary area of specialty is developing backend systems and integrations for web and mobile. I have a strong foundation in core Java and problem solving, which allows me to effectively design and implement these systems in a scalable and efficient manner.</p>
 
-<p>My experience has provided me with a unique perspective on the software development process and has allowed me to identify potential issues and devise effective solutions. Additionally, my strong foundation in the fundamentals of software development, including object-oriented programming provides a solid basis for further growth and development.</p>
+<p>I am interested in opportunities to be part of something exciting and innovative in the world of software development - a thing that will really test and push the boundaries of my knowledge, skills and the level of my ability to provide impactful solutions to real world problems.</p>
+
+
+
+
 
 
 <p align="left"> <a href="https://twitter.com/amosphinehas" target="blank"><img src="https://img.shields.io/twitter/follow/amosphinehas?logo=twitter&style=for-the-badge" alt="amosphinehas" /></a> </p>
